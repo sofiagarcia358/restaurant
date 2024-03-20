@@ -1,0 +1,58 @@
+html{
+    position: absolute;
+    margin: auto 27.3rem;
+}
+header{
+    width: 39.6rem;
+    height: 45.6rem; 
+    justify-content: center;  
+}
+img{
+    width: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.perfil{
+    width: 18.5rem;
+    height: 18.5rem;
+    margin: 2rem auto;
+    display: flex;
+    margin-top: -100%;
+}
+.perfil img{
+    width: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.info{
+    padding: 1rem;
+    justify-content: center;
+
+}
+.red{
+    color: white;
+    font-size: 2rem;
+    padding: 0.6rem;
+    
+    margin: auto 13rem;
+}
+.subtitulo{
+    color: white;
+    font-size: 1rem;
+    padding:  0.5rem;
+   
+   margin: auto 10rem;
+}
+.cuadrito{
+color: white;  
+position: absolute;
+background-color: rgb(49, 202, 49);
+width: 25.6rem;
+height: 4.3rem;
+ border-radius: 0.5rem;
+ margin: auto 7rem;
+ font-size: 1.8rem;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
